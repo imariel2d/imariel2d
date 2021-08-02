@@ -3,6 +3,11 @@
 - 🎓  Bachelors in Systems Engineering [@Hermosillo's Institute of Technology](http://www.ith.mx/)
 - 🔭  Interests in web development, bots and card tricks ✨.
 
+<br />
+<br />
+
+---
+
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
