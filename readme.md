@@ -2,6 +2,7 @@
 
 - 🎓  Bachelors in Systems Engineering [@Hermosillo's Institute of Technology](http://www.ith.mx/)
 - 🔭  Interests in web development, bots and card tricks ✨.
+- 😋  My favorite food is Enmoladas.
 
 <br />
 
